@@ -5,3 +5,4 @@ Methods to obtain PI
 
 1. Montecarlo           12/02/17
 2. Nilakantha Series    05/03/17 
+3. Ramanujan formula    07/03/17
